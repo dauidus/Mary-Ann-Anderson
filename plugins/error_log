@@ -1,0 +1,12 @@
+[07-Apr-2013 20:06:02] PHP Fatal error:  Call to undefined function  add_action() in /home/maryann/public_html/wp-content/plugins/hello.php on line 60
+[07-Apr-2013 21:12:37] PHP Fatal error:  Call to undefined function  add_action() in /home/maryann/public_html/wp-content/plugins/hello.php on line 60
+[07-Apr-2013 23:43:29] PHP Fatal error:  Call to undefined function  add_action() in /home/maryann/public_html/wp-content/plugins/hello.php on line 60
+[09-Apr-2013 03:53:44] PHP Fatal error:  Call to undefined function  add_action() in /home/maryann/public_html/wp-content/plugins/hello.php on line 60
+[10-Apr-2013 04:33:18] PHP Fatal error:  Call to undefined function  add_action() in /home/maryann/public_html/wp-content/plugins/hello.php on line 60
+[12-May-2013 09:31:50] PHP Fatal error:  Call to undefined function  add_action() in /home/maryann/public_html/wp-content/plugins/hello.php on line 60
+[12-May-2013 10:44:28] PHP Fatal error:  Call to undefined function  add_action() in /home/maryann/public_html/wp-content/plugins/hello.php on line 60
+[12-May-2013 11:51:39] PHP Fatal error:  Call to undefined function  add_action() in /home/maryann/public_html/wp-content/plugins/hello.php on line 60
+[30-May-2013 01:56:39] PHP Fatal error:  Call to undefined function  add_action() in /home/maryann/public_html/wp-content/plugins/hello.php on line 60
+[05-Nov-2013 15:45:18] PHP Fatal error:  Call to undefined function  add_action() in /home1/maryann/public_html/wp-content/plugins/hello.php on line 60
+[17-Apr-2014 07:22:25] PHP Fatal error:  Call to undefined function  add_action() in /home1/maryann/public_html/wp-content/plugins/hello.php on line 60
+[12-May-2014 00:42:30 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/maryann/public_html/wp-content/plugins/hello.php on line 60
